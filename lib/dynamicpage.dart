@@ -95,7 +95,7 @@ class dynamicpage extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'FRANZ CHRISTIAN S. NERA',
+          'NERA',
         ),
       ),
       body: Center(
